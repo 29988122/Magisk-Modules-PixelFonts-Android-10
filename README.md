@@ -8,8 +8,6 @@ This repo is for demostrations of how to make a magisk installer/wrapper.
 
 Please make sure you own the rights of the fonts before using them!
 ***
-
-***
 Credits to:
 topjohnwu, https://topjohnwu.github.io/Magisk/guides.html Taiwan Number one.
 Lupin The Third@xda, for the base of this magisk wrapper. https://forum.xda-developers.com/apps/magisk/avfonts-march-6-t3760827
