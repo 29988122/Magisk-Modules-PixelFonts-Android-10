@@ -8,7 +8,7 @@ Alternatively, You can try the htc10Fonts-Android 8.0.zip for Android 8.0 font r
 ***
 Copyrights of fonts belongs to their respective holder! I simply upload them here for your ease of use.
 
-This repo is for demostrations of how to make a magisk installer/wrapper.
+This repo is for demonstrations of how to make a magisk installer/wrapper.
 
 Please make sure you own the rights of the fonts before using them!
 ***
