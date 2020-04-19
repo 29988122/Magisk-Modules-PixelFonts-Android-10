@@ -1,7 +1,7 @@
 # Magisk-Modules-PixelFonts-Android-10
-If you want vanilla font reading experiences by Google, this is what you whant.
+If you need vanilla font reading experiences by Google, this is what you want.
 
-Apply this zip as a magisk module, and you have universal reading experiences no matter the version of Android or the phone you bought.
+Apply this zip as a magisk module, and now you have universal reading experiences no matter the version of Android or the phone you've bought.
 
 Alternatively, You can try the htc10Fonts-Android 8.0.zip for Android 8.0 font reading experiences, if the new font fallback behavior added in Android 9 for your language variant is undesirable to you.
 
